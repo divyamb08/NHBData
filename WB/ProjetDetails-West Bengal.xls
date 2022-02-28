@@ -1,0 +1,1729 @@
+<div id="divexport">
+                    <table width="100%">
+                        <tr>
+                            <td colspan="2">
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="text-align: center;" class="headstrip">
+                                <span id="lblName" style="font-weight:bold;">Integrated Cold Chain Availability Platform (ICAP) of WEST BENGAL  for  Year: 2010 - 2011 onwards as on date</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="left">
+                                <span id="lblCriteria" class="info"><b>Name of Agency:</b>&nbsp;NATIONAL HORTICULTURE BOARD (NHB)<br/><b>Component Category:</b>&nbsp;COLD / CA STORAGE,POST HARVEST INFRASTRUCTURE<br/><b>Component:</b>&nbsp;CA STORAGE,COLD STORAGE,COLD ROOM,CONVEYOR BELT,GRADING PACKING UNIT,PACK HOUSE,PRE-COOLING,REFER VAN,RIPENING CHAMBER,SPECIALIZED TRANSPORT VEHICLE<br/><b>District:</b>&nbsp;ALL<br/></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center">
+                                <table rules="all" border="1" id="dummyHeader" style="border-collapse: collapse; width:100%;">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 5%;">
+                                                Sl. No.
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 7.5%;">
+                                                Project Code
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 7%;">
+                                                State
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 6%;">
+                                                Year of Subsidy Sanctioned
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 8%;">
+                                                District
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 8%;">
+                                                Name of Beneficiary
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 8%;">
+                                                Project Address
+                                            </th>
+                                            <td scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 6.5%;">
+                                                Total Project Cost(In Lakhs)
+                                            </td>
+                                            <td scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 7%;">
+                                                Total Amount Sanctioned (In Lakhs)
+                                            </td>
+                                            <th id="th_1" scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 7%;">
+                                                Supported By
+                                            </th>
+
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 6%;">
+                                                Current Status of Project
+                                            </th>
+                                            <td scope="col" style="width: 28%;">
+                                                <table width="100%" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td colspan="5" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                            border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;">
+                                                            Component Details
+                                                        </td>
+                                                    </tr>
+                                                    <tr id="tr_Other1">
+	<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                            border-bottom: solid 1px #808080; width: 30%;">
+                                                            Component Category
+                                                        </td>
+	<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                            border-bottom: solid 1px #808080; width: 20%;">
+                                                            Component
+                                                        </td>
+	<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                            border-bottom: solid 1px #808080; width: 15%;">
+                                                            <span id="lblHeading2">No. of Unit(s) / Chamber(s)</span>
+                                                        </td>
+	<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                            border-bottom: solid 1px #808080; width: 17%;">
+                                                            Capacity
+                                                        </td>
+	<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                            border-right: solid 1px #808080; border-bottom: solid 1px #808080; width: 18%;">
+                                                            Unit of Capacity
+                                                        </td>
+</tr>
+
+                                                    
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </thead>
+                                </table>
+                                <div id="container" style="height: 800px; overflow: auto;">
+                                    <div>
+	<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy" style="width:100%;border-collapse:collapse;">
+		<tr class="gridheader" style="display:none">
+			<th align="center" valign="middle" scope="col" style="width:5%;">Sl. No.</th><th align="center" valign="middle" scope="col" style="color:White;width:8%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$ProjectCode')" style="color:White;">Project Code</a></th><th align="center" valign="middle" scope="col" style="color:White;width:7%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$StateName')" style="color:White;">State</a></th><th align="center" valign="middle" scope="col" style="color:White;width:6%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$YearofReleased1')" style="color:White;">Year of Subsidy Sanctioned</a></th><th align="center" valign="middle" scope="col" style="color:White;width:8%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$DistrictName')" style="color:White;">District</a></th><th align="center" valign="middle" scope="col" style="color:White;width:8%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$NameofProject')" style="color:White;">Name of Beneficiary</a></th><th align="center" valign="middle" scope="col" style="color:White;width:8%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$ProjectAddress')" style="color:White;">Project Address</a></th><th align="center" valign="middle" scope="col" style="color:White;width:7%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$Projectcost')" style="color:White;">Total Project Cost(In Lakhs)</a></th><th align="center" valign="middle" scope="col" style="color:White;width:7%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$Subsidy')" style="color:White;">Total Amount Sanctioned (In Lakhs)</a></th><th align="center" valign="middle" scope="col" style="color:White;width:7%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$SupportedBy')" style="color:White;">Supported By</a></th><th align="center" valign="middle" scope="col" style="color:White;width:6%;"><a href="javascript:__doPostBack('gridReport_Subsidy','Sort$CurrentStatus')" style="color:White;">Current Status of Project</a></th><th align="center" valign="middle" scope="col" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;">
+                                                                Component Details
+                                                            </td>
+                                                        </tr>
+                                                        <tr id="gridReport_Subsidy_ctl01_tr_Other">
+				<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                                border-bottom: solid 1px #808080; width: 30%;">
+                                                                Component Category
+                                                            </td>
+				<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                                border-bottom: solid 1px #808080; width: 20%;">
+                                                                Component
+                                                            </td>
+				<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                                border-bottom: solid 1px #808080; width: 15%;">
+                                                                <span id="gridReport_Subsidy_ctl01_lblHeading">No. of Unit(s) / Chamber(s)</span>
+                                                            </td>
+				<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                                border-bottom: solid 1px #808080; width: 17%;">
+                                                                Capacity
+                                                            </td>
+				<td colspan="1" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                                border-right: solid 1px #808080; border-bottom: solid 1px #808080; width: 18%;">
+                                                                Unit of Capacity
+                                                            </td>
+			</tr>
+			
+                                                        
+                                                    </table>
+                                                </th>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl02_lblID">1</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AFcAQgAyADAAMAAwADAAMAAwADAAMgA0ADUA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl02_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl02$lblProjectCode','')">19WB20000000245</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2000-01</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl02_lblDistrictName">Kolkata</span>
+                                                </td><td align="left" style="width:8%;">Hindustan Ice and Cold Storage Co. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl02_lblProjectAddress">Culcutta (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl02_lblProjectCost">0.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl02_lblSubsidyCost">2.00</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl02_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">0</td><td align="right" style="width:17%;">200.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl03_lblID">2</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAyADEA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl03_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl03$lblProjectCode','')">NCDC-WB-2001-21</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl03_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Boinchi Berala Sech&quot;o&quot; SKUS Ltd. </td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl03_lblProjectAddress">Boinchi Berala Sech"o" Sambhay Krishi Unnayan Samity Ltd. Distt. Hooghly  </span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl03_lblProjectCost">173.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl03_lblSubsidyCost">43.25</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl03_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl04_lblID">3</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAxADgA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl04_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl04$lblProjectCode','')">NCDC-WB-2001-18</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl04_lblDistrictName">Cooch Behar</span>
+                                                </td><td align="left" style="width:8%;">Coochbehar Sambhay Himgarh  Samiti Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl04_lblProjectAddress">Coochbehar Sambhay Himgarh  Samiti Ltd. Distt. Coochbehar.</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl04_lblProjectCost">180.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl04_lblSubsidyCost">45.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl04_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl05_lblID">4</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAxADIA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl05_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl05$lblProjectCode','')">NCDC-WB-2001-12</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl05_lblDistrictName">Jalpaiguri </span>
+                                                </td><td align="left" style="width:8%;">Falakata CADP Farmers service Cooperative Society Ltd Village Hedayetnegar P.O. Jateshwer</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl05_lblProjectAddress">Falakata CADP Farmers service Cooperative Society Ltd Village Hedayetnegar P.O. Jateshwer</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl05_lblProjectCost">40.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl05_lblSubsidyCost">0.75</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Under Implementation</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl05_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">75.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl06_lblID">5</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAyADIA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl06_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl06$lblProjectCode','')">NCDC-WB-2001-22</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl06_lblDistrictName">Dakshin Dinajpur </span>
+                                                </td><td align="left" style="width:8%;">Gangarampur Agril. Coop. Mktg. Socy. Ltd. Distt.  Dakhin Dinajpur</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl06_lblProjectAddress">Gangarampur Agril. Coop. Mktg. Socy. Ltd. Distt.  Dakhin Dinajpur</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl06_lblProjectCost">203.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl06_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl06_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl07_lblID">6</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAxADYA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl07_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl07$lblProjectCode','')">NCDC-WB-2001-16</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl07_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Gourhati Samabay Himghar Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl07_lblProjectAddress">Gourhati Samabay Himghar Ltd.District, Hooghly.</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl07_lblProjectCost">195.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl07_lblSubsidyCost">48.75</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl07_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl08_lblID">7</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAwADcA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl08_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl08$lblProjectCode','')">NCDC-WB-2001-07</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl08_lblDistrictName">North Twenty Four Parganas</span>
+                                                </td><td align="left" style="width:8%;">Habra large sized agril. Cooperative Society  Ltd. , Jessore Road, At and P.O. Habra </td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl08_lblProjectAddress">Habra large sized agril. Cooperative Society  Ltd. , Jessore Road, At & P.O. Habra </span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl08_lblProjectCost">40.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl08_lblSubsidyCost">0.75</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Under Implementation</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl08_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">75.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl09_lblID">8</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAwADgA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl09_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl09$lblProjectCode','')">NCDC-WB-2001-08</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl09_lblDistrictName">Bankura </span>
+                                                </td><td align="left" style="width:8%;">Jotebehar Sambay Krishi Unnayan Samity Ltd; Jote Behar, P.O.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl09_lblProjectAddress">Jotebehar Sambay Krishi Unnayan Samity Ltd; Jote Behar, P.O. Behar, Distt. Bankura</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl09_lblProjectCost">40.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl09_lblSubsidyCost">0.75</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Under Implementation</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl09_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">75.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl10_lblID">9</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAxADcA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl10_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl10$lblProjectCode','')">NCDC-WB-2001-17</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl10_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Koachmali Boragori Sambhay Himgarh Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl10_lblProjectAddress">Koachmali Boragori Sambhay Himgarh Ltd. Village Boragori P.O. Boinchi, Block Pandua Distt. Hoogly</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl10_lblProjectCost">169.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl10_lblSubsidyCost">42.25</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl10_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl11_lblID">10</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAwADMA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl11_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl11$lblProjectCode','')">NCDC-WB-2001-03</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl11_lblDistrictName">Barddhaman </span>
+                                                </td><td align="left" style="width:8%;">Krishak Kalyan Sambay Himghar Ltd. Kashem Nagar</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl11_lblProjectAddress">Krishak Kalyan Sambay Himghar Ltd. Kashem Nagar Distt. Burdwan</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl11_lblProjectCost">180.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl11_lblSubsidyCost">45.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl11_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl12_lblID">11</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAyADAA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl12_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl12$lblProjectCode','')">NCDC-WB-2001-20</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl12_lblDistrictName">Barddhaman </span>
+                                                </td><td align="left" style="width:8%;">Kulti Sambhay Krishi Unnayan Samity Ltd</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl12_lblProjectAddress">Kulti Sambhay Krishi Unnayan Samity Ltd village & P.O.  Gram Kulti Distt. Burdwan</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl12_lblProjectCost">173.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl12_lblSubsidyCost">43.25</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl12_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl13_lblID">12</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAxADUA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl13_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl13$lblProjectCode','')">NCDC-WB-2001-15</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl13_lblDistrictName">Barddhaman </span>
+                                                </td><td align="left" style="width:8%;">Kunurika Samabay Himghar Ltd; Gushkara P.S. Ausgram </td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl13_lblProjectAddress">Kunurika Samabay Himghar Ltd; Gushkara P.S. Ausgram </span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl13_lblProjectCost">200.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl13_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl13_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">6000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl14_lblID">13</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAxADkA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl14_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl14$lblProjectCode','')">NCDC-WB-2001-19</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl14_lblDistrictName">Maldah </span>
+                                                </td><td align="left" style="width:8%;">Malda Cooperative Cold Storage Ltd.Distt. Malda</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl14_lblProjectAddress">Malda Cooperative Cold Storage Ltd.Distt. Malda</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl14_lblProjectCost">205.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl14_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl14_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">6000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl15_lblID">14</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAxADEA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl15_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl15$lblProjectCode','')">NCDC-WB-2001-11</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl15_lblDistrictName">Maldah </span>
+                                                </td><td align="left" style="width:8%;">Malda Mango Coop.society Ltd. At Chalishapara P.O. Old Malda Pin-732128</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl15_lblProjectAddress">Malda Mango Coop.society Ltd. At Chalishapara P.O. Old Malda Pin-732128</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl15_lblProjectCost">33.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl15_lblSubsidyCost">0.75</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl15_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">75.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl16_lblID">15</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAwADYA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl16_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl16$lblProjectCode','')">NCDC-WB-2001-06</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl16_lblDistrictName">Murshidabad </span>
+                                                </td><td align="left" style="width:8%;">Naithbaidora SKUS Ltd. Village Sannashidanga</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl16_lblProjectAddress">Naithbaidora SKUS Ltd. Village Sannashidanga, P.O. Barla  District Murshidabad. Pin-742235</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl16_lblProjectCost">36.14</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl16_lblSubsidyCost">0.75</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl16_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">75.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl17_lblID">16</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAwADQA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl17_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl17$lblProjectCode','')">NCDC-WB-2001-04</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl17_lblDistrictName">Murshidabad </span>
+                                                </td><td align="left" style="width:8%;">Nandan Sambay Himghar Samiti. Ltd. Beldanga(1st Phase)</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl17_lblProjectAddress">Nandan Sambay Himghar Samiti. Ltd. Beldanga(1st Phase) P.O. Beldanga</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl17_lblProjectCost">235.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl17_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl17_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl18_lblID">17</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAwADUA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl18_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl18$lblProjectCode','')">NCDC-WB-2001-05</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl18_lblDistrictName">Murshidabad </span>
+                                                </td><td align="left" style="width:8%;">Nandan Sambay Himghar Samiti. Ltd. Beldanga(2nd Phase)</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl18_lblProjectAddress">Nandan Sambay Himghar Samiti. Ltd.P.O. Beldanga(2nd Phase) Disst.Murshidabad</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl18_lblProjectCost">200.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl18_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl18_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl19_lblID">18</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAwADkA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl19_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl19$lblProjectCode','')">NCDC-WB-2001-09</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl19_lblDistrictName">Nadia </span>
+                                                </td><td align="left" style="width:8%;">Nazirpur Sambay Krishak Unnayan Samity Ltd. P.O. Birnagar</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl19_lblProjectAddress">Nazirpur Sambay Krishak Unnayan Samity Ltd. P.O. Birnagar</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl19_lblProjectCost">40.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl19_lblSubsidyCost">0.75</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl19_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">75.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl20_lblID">19</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADEALQAxADAA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl20_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl20$lblProjectCode','')">NCDC-WB-2001-10</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl20_lblDistrictName">Barddhaman </span>
+                                                </td><td align="left" style="width:8%;">Sajjiara Faleya Sambay Krishi Unnayan Samity Ltd; Villaga Sajjiara P.O. Lakshipur</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl20_lblProjectAddress">Sajjiara Faleya Sambay Krishi Unnayan Samity Ltd; Villaga Sajjiara P.O. Lakshipur</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl20_lblProjectCost">40.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl20_lblSubsidyCost">0.75</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Under Implementation</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl20_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">75.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl21_lblID">20</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AFcAQgAyADAAMAAxADAAMAAwADAAMgA0ADYA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl21_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl21$lblProjectCode','')">19WB20010000246</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2001-02</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl21_lblDistrictName">Kolkata</span>
+                                                </td><td align="left" style="width:8%;">Premier Agro Cool Tech (P) Ltd. </td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl21_lblProjectAddress">Kolkata (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl21_lblProjectCost">0.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl21_lblSubsidyCost">25.00</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl21_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">0</td><td align="right" style="width:17%;">2500.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl22_lblID">21</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADIALQAyADUA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl22_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl22$lblProjectCode','')">NCDC-WB-2002-25</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2002-03</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl22_lblDistrictName">Puruliya</span>
+                                                </td><td align="left" style="width:8%;">Bandwan South Large size Agriculture Multi Purpose Cooperative Society Ltd. Distt. Purulia</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl22_lblProjectAddress">Bandwan South Large size Agriculture Multi Purpose Cooperative Society Ltd. Distt. Purulia</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl22_lblProjectCost">240.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl22_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl22_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">6000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl23_lblID">22</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADIALQAyADQA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl23_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl23$lblProjectCode','')">NCDC-WB-2002-24</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2002-03</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl23_lblDistrictName">Bankura </span>
+                                                </td><td align="left" style="width:8%;">DRMS Large Sized Agricultural Marketing Processing society Ltd.(LAMPS) Raipur, distt.Bankura</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl23_lblProjectAddress">DRMS Large Sized Agricultural Marketing Processing society Ltd.(LAMPS) Raipur, distt.Bankura</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl23_lblProjectCost">210.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl23_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl23_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">6000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl24_lblID">23</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADUALQAzADAA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl24_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl24$lblProjectCode','')">NCDC-WB-2005-30</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2005-06</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl24_lblDistrictName">Dakshin Dinajpur </span>
+                                                </td><td align="left" style="width:8%;">Gangarampur Agril. Coop. Mktg. Copt. Socy. Ltd. (2nd Phase) </td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl24_lblProjectAddress">Gangarampur Agril. Coop. Mktg. Copt. Socy. Ltd. (2nd Phase) </span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl24_lblProjectCost">169.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl24_lblSubsidyCost">42.25</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl24_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl25_lblID">24</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADYALQAzADEA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl25_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl25$lblProjectCode','')">NCDC-WB-2006-31</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2006-07</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl25_lblDistrictName">Maldah </span>
+                                                </td><td align="left" style="width:8%;">Adina Sambay Himghar Samity Ltd.(Ist Phase)</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl25_lblProjectAddress">Adina Sambay Himghar Samity Ltd.(Ist Phase) Distt. Malda</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl25_lblProjectCost">256.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl25_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl25_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5600.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl26_lblID">25</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADYALQAzADIA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl26_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl26$lblProjectCode','')">NCDC-WB-2006-32</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2006-07</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl26_lblDistrictName">Dakshin Dinajpur </span>
+                                                </td><td align="left" style="width:8%;">Kushmandi ACMS Ltd.(1 st Phase)</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl26_lblProjectAddress">Kushmandi ACMS Ltd.(1st Phase) Agricultural Cooperative Mktg. Society Ltd. P.O. Kushmandi Distt.Dakhin Dinajpur-7331321</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl26_lblProjectCost">233.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl26_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl26_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5500.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl27_lblID">26</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AFcAQgAyADAAMAA2ADAAMAAwADAAMgA0ADgA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl27_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl27$lblProjectCode','')">19WB20060000248</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2006-07</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl27_lblDistrictName">North Twenty Four Parganas</span>
+                                                </td><td align="left" style="width:8%;">Priyanka Cold Storage</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl27_lblProjectAddress">24 Pargana (North), West Bengal</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl27_lblProjectCost">0.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl27_lblSubsidyCost">4.03</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl27_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">0</td><td align="right" style="width:17%;">403.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl28_lblID">27</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADcALQAzADUA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl28_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl28$lblProjectCode','')">NCDC-WB-2007-35</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2007-08</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl28_lblDistrictName">Birbhum</span>
+                                                </td><td align="left" style="width:8%;">Nalhatti -1 CADP FSCS Ltd.,</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl28_lblProjectAddress">Nalhatti -I CADP Farmers Service Cooperative Society Ltd.,</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl28_lblProjectCost">262.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl28_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl28_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">6000.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl29_lblID">28</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADkALQAzADgA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl29_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl29$lblProjectCode','')">NCDC-WB-2009-38</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2009-10</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl29_lblDistrictName">Maldah </span>
+                                                </td><td align="left" style="width:8%;">Adina Sambay Himghar Samity Ltd.(2nd Phase)</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl29_lblProjectAddress">Adina Sambay Himghar Samity Ltd.(2nd Phase)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl29_lblProjectCost">198.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl29_lblSubsidyCost">49.50</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl29_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5600.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl30_lblID">29</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=TgBDAEQAQwAtAFcAQgAtADIAMAAwADkALQAzADkA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl30_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl30$lblProjectCode','')">NCDC-WB-2009-39</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2009-10</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl30_lblDistrictName">Birbhum</span>
+                                                </td><td align="left" style="width:8%;">Uttar Ajoy Sambay Himghar Ltd, Bhir Bhum</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl30_lblProjectAddress">Uttar Ajoy Sambay Himghar Ltd,Distt. Bhirbhum</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl30_lblProjectCost">320.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl30_lblSubsidyCost">50.00</span>
+                                                </td><td align="center" style="width:7%;">Through NCDC</td><td align="center" style="width:6%;">Under Implementation</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl30_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">1</td><td align="right" style="width:17%;">5400.00</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl31_lblID">30</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAMQAwADQA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl31_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl31$lblProjectCode','')">19AWB0004104</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2011-12</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl31_lblDistrictName">Bankura </span>
+                                                </td><td align="left" style="width:8%;">Maa Sarada Cold Storage Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl31_lblProjectAddress">Village-Jayrambati, Taluka-Kotulpur, Dist-Bankura (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl31_lblProjectCost">15.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl31_lblSubsidyCost">6.00</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl31_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">03</td><td align="right" style="width:17%;">0.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl32_lblID">31</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADIAOAA3ADAA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl32_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl32$lblProjectCode','')">19AWB0002870</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2011-12</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl32_lblDistrictName">Kolkata</span>
+                                                </td><td align="left" style="width:8%;">M/s. Fresh Produce Logistics Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl32_lblProjectAddress">Plot no. C-6, & C-7, Food Park (Sudha Ras), Sankrail, Howrah 711302</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl32_lblProjectCost">160.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl32_lblSubsidyCost">16.22</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl32_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">02</td><td align="right" style="width:17%;">0.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl33_lblID">32</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAMQA5ADYA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl33_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl33$lblProjectCode','')">19AWB0004196</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2012-13</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl33_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Santimoyee Himghar (P) Ltd., Dir-Patiti Paban De</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl33_lblProjectAddress">Village-Talchinan Sanihati , Taluka-Polaba-Dadpur, Dist-Hugli (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl33_lblProjectCost">12.10</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl33_lblSubsidyCost">4.80</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl33_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">0.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl34_lblID">33</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQANQAyADQA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl34_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl34$lblProjectCode','')">19AWB0004524</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2013-14</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl34_lblDistrictName">Jalpaiguri </span>
+                                                </td><td align="left" style="width:8%;">Dhupguri Cold Storage, Director-Kalyan Banerjee</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl34_lblProjectAddress">Village-Purba Magurmari,Taluka- Dhupguri,
+Dist.-Jalpaiguri (West Bengal) Pin Code-735210</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl34_lblProjectCost">18.05</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl34_lblSubsidyCost">7.20</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl34_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">03</td><td align="right" style="width:17%;">0.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl35_lblID">34</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQANQAzADUA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl35_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl35$lblProjectCode','')">19AWB0004535</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2014-15</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl35_lblDistrictName">Jalpaiguri </span>
+                                                </td><td align="left" style="width:8%;">Himalayan Entrepreneurs Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl35_lblProjectAddress">Village- Patkata,Taluka- Jalpauguri (Kotwali), Distt.- Jalpaiguri (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl35_lblProjectCost">12.10</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl35_lblSubsidyCost">4.84</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl35_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">02</td><td align="right" style="width:17%;">0.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl36_lblID">35</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQANQA2ADYA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl36_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl36$lblProjectCode','')">19AWB0004566</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2014-15</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl36_lblDistrictName">Cooch Behar</span>
+                                                </td><td align="left" style="width:8%;">Kaljani Cold Storage Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl36_lblProjectAddress">Village-Kholta, Taluka-Coochbehar-II, Dist.- Coochbehar, PIN-736121 (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl36_lblProjectCost">12.10</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl36_lblSubsidyCost">4.84</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl36_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">02</td><td align="right" style="width:17%;">0.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl37_lblID">36</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQANQAzADQA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl37_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl37$lblProjectCode','')">19AWB0004534</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2014-15</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl37_lblDistrictName">Jalpaiguri </span>
+                                                </td><td align="left" style="width:8%;">Teesta Cold Storage Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl37_lblProjectAddress">Village- Nayapara (73 More), Taluka- Jalpauguri (Kotwali), Distt.- Jalpaiguri (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl37_lblProjectCost">180.05</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl37_lblSubsidyCost">7.20</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl37_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">03</td><td align="right" style="width:17%;">0.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl38_lblID">37</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAQwBTADAAMAAwADAAMAA1AA==&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl38_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl38$lblProjectCode','')">19AWB0CS000005</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2014-15</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl38_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">SREE GOURANGA HIMGHAR PVT. LTD.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl38_lblProjectAddress">Village-Sehakhala, Taluka-Chanditala-I, Dist-Hoogly (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl38_lblProjectCost">178.25</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl38_lblSubsidyCost">57.82</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl38_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">02</td><td align="right" style="width:17%;">2409.73</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl39_lblID">38</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAQwBTADAAMAAwADAAMAAyAA==&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl39_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl39$lblProjectCode','')">19AWB0CS000002</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2014-15</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl39_lblDistrictName">Birbhum</span>
+                                                </td><td align="left" style="width:8%;">RAJSHREE ENTERPRISE</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl39_lblProjectAddress">Mouza & Village: Bagdola, P.O. Deriapur,
+P.S. Sainthia, Dist. Birbhum, Pin: 731234
+(West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl39_lblProjectCost">128.80</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl39_lblSubsidyCost">24.72</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl39_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">04</td><td align="right" style="width:17%;">1111.84</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl40_lblID">39</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAMgA4ADgA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl40_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl40$lblProjectCode','')">19AWB0004288</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2014-15</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl40_lblDistrictName">Jalpaiguri </span>
+                                                </td><td align="left" style="width:8%;">D.G Cold Storage (P) Ltd., Director-Arup Kr. Bose</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl40_lblProjectAddress">Village-Gadang, Taluka-Dhupguri, Dist- Jalpaiguri (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl40_lblProjectCost">18.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl40_lblSubsidyCost">7.20</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl40_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">03</td><td align="right" style="width:17%;">0.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl41_lblID">40</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAQwBTADAAMAAwADAAMAA4AA==&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl41_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl41$lblProjectCode','')">19AWB0CS000008</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2014-15</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl41_lblDistrictName">Barddhaman </span>
+                                                </td><td align="left" style="width:8%;">A.B.M. Multipurpose Cold Storage Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl41_lblProjectAddress">Village-Amadpur, Taluka-Memari, Dist-Burdwan (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl41_lblProjectCost">285.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl41_lblSubsidyCost">20.70</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl41_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">08</td><td align="right" style="width:17%;">1695.88</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl42_lblID">41</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAQwBTADAAMAAwADAAMQAyAA==&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl42_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl42$lblProjectCode','')">19AWB0CS000012</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2015-16</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl42_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Matri Mandir Multipurpose Cold Chain Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl42_lblProjectAddress">Village- Raghunathpur, Post- Seakhala, Taluka- Chanditala-I, Distt.- Hooghly (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl42_lblProjectCost">574.52</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl42_lblSubsidyCost">120.00</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl42_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">05</td><td align="right" style="width:17%;">5093.80</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl43_lblID">42</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAQwBTADAAMAAwADAAMAA0AA==&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl43_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl43$lblProjectCode','')">19AWB0CS000004</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2015-16</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl43_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">SURYADEEP MULTIPURPOSE COLD STORAGE LLP</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl43_lblProjectAddress">Village-Belumilki, Taluka-Serampur, Dist-Hugli (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl43_lblProjectCost">246.60</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl43_lblSubsidyCost">31.47</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl43_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">COLD / CA STORAGE</td><td align="left" style="width:20%;">COLD STORAGE</td><td align="right" style="width:15%;">12</td><td align="right" style="width:17%;">983.59</td><td align="center" style="width:18%;">MT</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl44_lblID">43</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAAxADIA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl44_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl44$lblProjectCode','')">19AWB0004812</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl44_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">M/s. Pati Durga Potato Cold Storage Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl44_lblProjectAddress">M/s. Pati Durga Potato Cold Storage Pvt. Ltd.
+Sh. Bharat Chandra Paul, Director
+Vill. Palasi, PO. Palasi
+PS. Gurap, Dist. Hooghly
+West Bengal, Pin-712303</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl44_lblProjectCost">19.47</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl44_lblSubsidyCost">6.81</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl44_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">14946.00</td><td align="center" style="width:18%;">TONNES</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl45_lblID">44</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAA1ADQA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl45_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl45$lblProjectCode','')">19AWB0004854</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl45_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">M/s. Purna Cold Storage Private Limited</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl45_lblProjectAddress">Prop: Sh. Swapan Kumar Saha,
+Vill. & P.O. Dhaniakhali, 
+PS. Dhaniakhali, Dist. Hooghly, 
+West Bengal, Pin-712302</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl45_lblProjectCost">6.23</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl45_lblSubsidyCost">2.18</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl45_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">17700.00</td><td align="center" style="width:18%;">TONNES</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl46_lblID">45</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAAxADAA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl46_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl46$lblProjectCode','')">19AWB0004810</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl46_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">M/s. Sree Gouranga Himghar Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl46_lblProjectAddress">Sh. Rampad Paul, Director
+Vill. Sheakhala, PO. Sheakhala
+PS. Chanditala, Dist. Hooghly
+West Bengal, Pin-712706</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl46_lblProjectCost">24.08</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl46_lblSubsidyCost">8.38</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl46_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">17400.00</td><td align="center" style="width:18%;">TONNES</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl47_lblID">46</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAAxADEA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl47_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl47$lblProjectCode','')">19AWB0004811</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl47_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Matri Mandir Himghar Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl47_lblProjectAddress">M/s. Matri Mandir Himghar Pt. Ltd.
+Sh. Lakshman Chandra Paul
+Vill. Nagarpara, PO. Mahanad
+PS. Polba, Dist. Hooghly
+West Bengal, Pin-712149</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl47_lblProjectCost">19.92</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl47_lblSubsidyCost">6.97</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl47_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">21000.00</td><td align="center" style="width:18%;">TONNES</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl48_lblID">47</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAA1ADkA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl48_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl48$lblProjectCode','')">19AWB0004859</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl48_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">M/s. Matri Mandir Multipurpose Cold Chain Ltd</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl48_lblProjectAddress">Village-Raghunathpur, Taluka-Chanditala-1, Dist-Hugli (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl48_lblProjectCost">17.78</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl48_lblSubsidyCost">6.04</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl48_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">3.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl49_lblID">48</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAA2ADEA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl49_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl49$lblProjectCode','')">19AWB0004861</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl49_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">M/s. Santimoyee Himghar Pvt. Ltd. (Prop. Sh. Patit Paban De)</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl49_lblProjectAddress">Village-Dedhara, PO. Dedhara, PS. Dhaniakhali, Dist. Hooghly (West Bengal), Pin-712302</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl49_lblProjectCost">20.84</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl49_lblSubsidyCost">7.29</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl49_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">3.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl50_lblID">49</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAA2ADAA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl50_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl50$lblProjectCode','')">19AWB0004860</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl50_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">M/s. Sree Gouranga Himghar Pvt. Ltd. (Prop. Rampada Paul)</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl50_lblProjectAddress">Village-Sheakhala, Taluka-Chanditala-1
+Dist-Hugli (West Bengal)</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl50_lblProjectCost">19.35</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl50_lblSubsidyCost">6.59</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl50_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">3.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl51_lblID">50</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAA2ADQA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl51_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl51$lblProjectCode','')">19AWB0004864</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl51_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Matri Bhumi Agritech LLP</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl51_lblProjectAddress">Mouza-Bhastara, Vill & Post-Bhastara,
+PS.-Gurap, Dist.-Hooghly (West Bengal)
+Pin-712303</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl51_lblProjectCost">37.00</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl51_lblSubsidyCost">12.86</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl51_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">5.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row2">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl52_lblID">51</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAA2ADUA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl52_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl52$lblProjectCode','')">19AWB0004865</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl52_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Vivekananda Heemghar Pvt. Ltd.</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl52_lblProjectAddress">Mouza-Mandara, Vill & Post-Dhaniakhali,
+PS.-Dhaniakhali, Dist.-Hooghly (West Bengal)
+Pin-712302</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl52_lblProjectCost">6.83</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl52_lblSubsidyCost">2.39</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl52_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">5.00</td><td align="center" style="width:18%;">NOS</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="row1">
+			<td align="center" style="width:5%;">
+                                                    <span id="gridReport_Subsidy_ctl53_lblID">52</span>
+                                                </td><td align="left" style="width:8%;">
+                                                    <a onclick="javascript:window.open('DetailReportforICAPProject.aspx?ProjectCode=MQA5AEEAVwBCADAAMAAwADQAOAAwADQA&amp;ReportCategory=MQA=', 'InBoxDetails', 'toolbar=no,menubar=no,location=no,status=no,height=460,width=1050,top=200,left=100,resizable=no,scrollbars=1');" id="gridReport_Subsidy_ctl53_lblProjectCode" href="javascript:void(0);" href="javascript:__doPostBack('gridReport_Subsidy$ctl53$lblProjectCode','')">19AWB0004804</a>
+                                                </td><td align="left" style="width:7%;">West Bengal</td><td align="center" style="width:6%;">2016-17</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl53_lblDistrictName">Hugli </span>
+                                                </td><td align="left" style="width:8%;">Sh. Pradeep Kumar Gupta</td><td align="left" style="width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl53_lblProjectAddress">Vill. Narayanpur, PO. Tarakeswar
+PS. Dhaniakhali, Dist. Hooghly
+West Bengal, Pin-712410</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl53_lblProjectCost">12.48</span>
+                                                </td><td align="right" style="width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl53_lblSubsidyCost">4.34</span>
+                                                </td><td align="center" style="width:7%;">NHB</td><td align="center" style="width:6%;">Completed</td><td align="left" style="width:30%;">
+                                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                                        <tr>
+                                                            <td colspan="5" valign="top">
+                                                                <div>
+				<table cellspacing="0" rules="all" ItemStyle-CssClass="row2" AlternatingItemStyle-CssClass="row1" border="1" id="gridReport_Subsidy_ctl53_gvComp" style="height:100px;width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="left" style="width:30%;">POST HARVEST INFRASTRUCTURE</td><td align="left" style="width:20%;">CONVEYOR BELT</td><td align="right" style="width:15%;">NA</td><td align="right" style="width:17%;">10199.00</td><td align="center" style="width:18%;">TONNES</td>
+					</tr>
+				</table>
+			</div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+		</tr><tr class="gridheader1" style="display:none">
+			<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="right" style="color:White;font-weight:bold;width:8%;">
+                                                    <span id="gridReport_Subsidy_ctl54_lblProjectAddressTotal" style="color:Black;">Total</span>
+                                                </td><td align="right" style="color:White;font-weight:bold;width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl54_lblProjectCostTotal" style="color:Black;">6294.69</span>
+                                                </td><td align="right" style="color:White;font-weight:bold;width:7%;">
+                                                    <span id="gridReport_Subsidy_ctl54_lblSubsidyCostTotal" style="color:Black;">1322.39</span>
+                                                </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
+                                </div>
+                                <table rules="all" border="1" id="Table1" style="border-collapse: collapse" width="100%">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 5%;">
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 7.5%;">
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 7%;">
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 6%;">
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 8%;">
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 8%;">
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 8%;">
+                                                Total
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 6.5%;">
+                                                <span id="lblProjectCostTotal1">6294.69</span>
+                                            </th>
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 7%;">
+                                                <span id="lblSubsidyCostTotal1">1322.39</span>
+                                            </th>
+                                            <th id="th_1_1" scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 7%;">
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </th>
+
+                                            <th scope="col" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;
+                                                width: 6%;">
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </th>
+                                            <th scope="col" style="width: 28%;">
+                                                <table width="100%" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td colspan="5" class="gridheader" align="center" style="border-left: solid 1px #808080;
+                                                            border-top: solid 1px #808080; border-right: solid 1px #808080; border-bottom: solid 1px #808080;">
+                                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
